@@ -1,1 +1,2 @@
 Hi Vinod "Welcome to Git Tutorial"
+class at 7:30AM
