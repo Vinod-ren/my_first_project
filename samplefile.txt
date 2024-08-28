@@ -1,2 +1,3 @@
 Hi Vinod "Welcome to Git Tutorial"
 class at 7:30AM
+Second Session starts at 8:30AM
